@@ -18,3 +18,4 @@ I bring a unique blend of skills and experiences, making me an ideal choice for 
 📉 Operational Efficiency: Commitment to contributing to operational efficiency and profitability through data-driven insights.
 Let's Connect! 📬
 If you're looking for someone who can analyze situations, make informed decisions, and contribute to your team's success, I'm the right choice. Feel free to reach out to me at ghazalnazari1990@gmail.com for collaboration or inquiries. Let's explore the exciting possibilities of data science together! 😉
+---
