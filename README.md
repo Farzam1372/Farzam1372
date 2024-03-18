@@ -1,5 +1,5 @@
 # Farzam Nazari - Data Scientist 👩‍💻
-Hello, I'm Farzam Nazari, experienced data scientist and AI enthusiast with a master's degree in industrial engineering and international management. I love solving problems in creative ways using data.
+Hello, I'm Farzam Nazari, Data Scientist pursuing a Master's in Industrial Engineering and International Management with focus on Data Science and AI in Berlin. Passionate about addressing and solving problems through data and AI. My academic background and professional interests converge in realm of data science, statistics, mathematics, and AI. I am dedicated to utilizing advanced analytical techniques to derive actionable insights and drive strategic decision making.
 
 ----
 # Professional Background 🌐
