@@ -3,8 +3,9 @@ Hello, I'm Farzam Nazari, experienced data scientist and AI enthusiast with a ma
 
 ----
 # Professional Background 🌐
-- 🎓 Master's student in Industrial Engineering with a focus on Data Science and AI.
-- 🎓 Bachelor's in Mechanical Engineering.
+- 🎓 Master's student in Industrial Engineering with a focus on Data Science and AI
+- 🎓 Bachelor's in Mechanical Engineering
+- 🎓 IBM Data Science Course
 -----
 # Skills and Expertise 🚀
 
