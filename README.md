@@ -1,4 +1,4 @@
-# Farzam Nazari - Data Scientist 👩‍💻
+# Farzam Nazari  👩‍💻
 Hello, I'm Farzam Nazari, Motivated Data Scientist and AI enthusiast based in Berlin, I bring technical expertise and analytical skills, supported by a year of experience in data science, machine learning, and AI projects. I excel at extracting insights from complex data sets, uncovering patterns, and driving informed decisions. With a strong understanding of statistical modeling, machine learning, and data visualization, I transform raw data into actionable intelligence. 
 
 Skilled in Python, SQL, and machine learning libraries, I have experience working in multinational teams and large companies. Known for problem-solving, attention to detail, and effective collaboration, I am passionate about continuous learning and improvement. Additionally, I have experience in project management and procurement, ready to bring innovation, teamwork, and strong communication skills to your company, contributing to its growth and success.
