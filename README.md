@@ -1,11 +1,14 @@
 # Farzam Nazari - Data Scientist 👩‍💻
-Hello, I'm Farzam Nazari, Data Scientist pursuing a Master's in Industrial Engineering and International Management with focus on Data Science and AI in Berlin. Passionate about addressing and solving problems through data and AI. My academic background and professional interests converge in realm of data science, statistics, mathematics, and AI. I am dedicated to utilizing advanced analytical techniques to derive actionable insights and drive strategic decision making.
+Hello, I'm Farzam Nazari, Motivated Data Scientist and AI enthusiast based in Berlin, I bring technical expertise and analytical skills, supported by a year of experience in data science, machine learning, and AI projects. I excel at extracting insights from complex data sets, uncovering patterns, and driving informed decisions. With a strong understanding of statistical modeling, machine learning, and data visualization, I transform raw data into actionable intelligence. 
+
+Skilled in Python, SQL, and machine learning libraries, I have experience working in multinational teams and large companies. Known for problem-solving, attention to detail, and effective collaboration, I am passionate about continuous learning and improvement. Additionally, I have experience in project management and procurement, ready to bring innovation, teamwork, and strong communication skills to your company, contributing to its growth and success.
 
 ----
 # Professional Background 🌐
-- 🎓 Master's student in Industrial Engineering with a focus on Data Science and AI
-- 🎓 Bachelor's in Mechanical Engineering
+- 🎓 Master of science in Industrial Engineering with a focus on Data Science and AI
+- 🎓 Bachelor of science in Mechanical Engineering
 - 🎓 IBM Data Science Course
+- 🎓 IBM Data Analyst Course
 -----
 # Skills and Expertise 🚀
 
