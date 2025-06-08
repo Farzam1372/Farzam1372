@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🌱 I'm currently working at a startup, **DAIOTA**, where I focus on developing and improving machine learning models and supporting business growth.<br>
-- 🤝 I'm open to collaboration on **Data Science**, **Machine Learning Engineering**, and **AI Engineering** projects.<br>
+- 🤝 I'm open to collaboration on **Data Science**, **Machine Learning Engineering**, and **AI Engineering** and **Research Scientist** projects.<br>
 - 🚀 I'm eager to contribute to both small and large teams where I can bring innovation and fresh ideas.<br>
 - 🎮 Fun fact: I'm a gamer from Iran, currently living in Berlin. I enjoy reading tech and business articles, and I also love playing the Persian instrument **Setar**.<br>
 
