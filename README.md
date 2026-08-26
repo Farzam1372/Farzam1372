@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🤝 I'm open to collaboration on **Data Science**, **Machine Learning Engineering**, and **AI Engineering** and **Research Scientist** projects.<br>
+- 🤝 I'm open to collaboration on **Data Science**, **Machine Learning Engineering**.<br>
 - 🚀 I'm eager to contribute to both small and large teams where I can bring innovation and fresh ideas.<br>
 
 
